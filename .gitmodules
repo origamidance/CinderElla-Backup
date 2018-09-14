@@ -1,0 +1,15 @@
+[submodule "blocks/Cinder-NanoVG"]
+	path = blocks/Cinder-NanoVG
+	url = https://github.com/origamidance/Cinder-NanoVG.git
+[submodule "blocks/Cinder-LibIgl"]
+	path = blocks/Cinder-LibIgl
+	url = https://github.com/origamidance/Cinder-LibIgl.git
+[submodule "blocks/Eigen"]
+	path = blocks/Eigen
+	url = https://github.com/eigenteam/eigen-git-mirror.git
+[submodule "Cinder"]
+	path = Cinder
+	url = https://github.com/cinder/Cinder.git
+[submodule "blocks/Cinder-ImGui"]
+	path = blocks/Cinder-ImGui
+	url = https://github.com/origamidance/Cinder-ImGui.git
