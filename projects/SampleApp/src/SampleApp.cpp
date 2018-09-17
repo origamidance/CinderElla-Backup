@@ -18,9 +18,7 @@ using namespace std;
 namespace ui=ImGui;
 
 void prepareSettings(App::Settings *settings) {
-  settings->setWindowSize(1024, 768);
   settings->setHighDensityDisplayEnabled();
-  settings->setMultiTouchEnabled(false);
 //  settings->disableFrameRate();
 }
 

@@ -5,7 +5,7 @@ set(BLOCKS
 		${BLOCKS_PATH}/Cinder-NanoVG
 		)
 set(SOURCES
-		src/CinderEllaApp.cpp)
+		src/SampleApp.cpp)
 
 project( SampleApp)
 ci_make_app(
